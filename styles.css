@@ -1,0 +1,118 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    background-color: #f8f9fa;
+    padding-top: 56px;
+}
+nav{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #333;
+    background-color: rgb(255, 255, 255);
+    font-size: 1.05em;
+    padding: 2.2rem 3rem;
+    display: inline-flex;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    transition: color .3s;
+    height: 80px;
+    border-style: solid;
+    border-bottom-width: 2px;
+    border-top: #333;
+    border-left: none;
+    border-right: none;
+    border-color: gradient(to right, #db0000, #227575);   
+}
+.mini__prof{
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+    
+}
+
+.navbar-light .navbar-brand {
+    color: #333;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #333;
+}
+
+.hero-section {
+    background-color: #ffffff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.hero-section h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+.hero-section p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.section-title {
+    font-size: 2.5em;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+.about-section,
+.skills-section,
+.projects-section,
+.contact-section {
+    padding: 60px 0;
+}
+
+.about-section img {
+    max-width: 200px;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+}
+
+.skill-card,
+.project-card {
+    width: 50;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.skill-card:hover,
+.project-card:hover {
+    transform: translateY(-5px);
+}
+
+.project-card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.project-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.project-description {
+    color: #666;
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: #333;
+    padding: 15px;
+    border-top: 1px solid #e6e6e6;
+}
+
+footer p {
+    margin: 0;
+}
