@@ -2,7 +2,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     color: #333;
     background-color: #f8f9fa;
-    padding-top: 56px;
+    padding-top: 52px;
 }
 
 nav{
@@ -40,13 +40,16 @@ nav{
     color: #333;
 }
 
-.hero-section {
+.home-section {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
     background-color: #ffffff;
-    padding: 100px 0;
     text-align: center;
 }
 
-.hero-section h1 {
+.home-section h1 {
     font-size: 6rem;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -55,7 +58,7 @@ nav{
     font-weight: 800
 }
 
-.hero-section p {
+.home-section p {
     font-size: 1.2em;
     color: #666;
 }
@@ -77,38 +80,44 @@ nav{
 }
 
 .section-title {
-    font-size: 2.5em;
+    font-size: 3.5rem;
     margin-bottom: 1em;
     text-align: center;
 }
 
+.about-text{
+    font-size: 1.4em;
+    color: #666;
+    background-color: rgb(221, 153, 153) ;
+    border-radius: 8px;
+    padding: 20px;    
+}
+
+.home-section,
 .about-section,
 .skills-section,
 .projects-section,
 .contact-section {
-    padding: 60px 0;
+    position: relative;
+    height: 100vh;
+    padding: 160px 15% 120px;
+    unicode-bidi: isolate;
 }
 
+.about-section {
+    background-color: red;
+}
 .about-section img {
+    background-color: #fff;
     max-width: 200px;
     border-radius: 50%;
-    margin: 0 auto 20px;
+    margin: 20px;
 }
+
 .skill-card i {
     font-size: 36px;
 }
-.bx {
-    font-family: boxicons !important;
-    font-weight: 400;
-    font-style: normal;
-    font-variant: normal;
-    line-height: 1;
-    text-rendering: auto;
-    display: inline-block;
-    text-transform: none;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
+
 .skill-card {
     min-width: 300px;
     max-height: 300px;
