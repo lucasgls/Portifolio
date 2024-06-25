@@ -27,7 +27,7 @@ Este portfólio foi criado com o objetivo de apresentar os projetos que desenvol
 
 ## Como Visualizar👀
 
-Para acessar o portifolio clique no botão abaixo.
+Para acessar o portifolio clique no botão abaixo ou na foto acima.
  
 [![GITHUB](https://img.shields.io/badge/Portifolio-E34F26?style=for-the-badge&logo=github&logoColor=black&color=grey)](https://lucasgls.github.io/Portifolio/)
 
