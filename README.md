@@ -1,6 +1,6 @@
 # Home Page 🏠
 
-![image](https://github.com/lucasgls/Portifolio/assets/75333876/c69bfd4a-c5eb-4fd4-aecc-7a9aafc60a5a)
+[![image](https://github.com/lucasgls/Portifolio/assets/75333876/c69bfd4a-c5eb-4fd4-aecc-7a9aafc60a5a)](lucasgls.github.io/Portifolio/)
 
 ⬇️⬇️
 
@@ -29,7 +29,7 @@ Este portfólio foi criado com o objetivo de apresentar os projetos que desenvol
 
 Para acessar o portifolio clique no botão abaixo.
  
-[![GITHUB](https://img.shields.io/badge/Portifolio-E34F26?style=for-the-badge&logo=github&logoColor=black&color=grey)](https://github.com/lucasgls?tab=repositories)
+[![GITHUB](https://img.shields.io/badge/Portifolio-E34F26?style=for-the-badge&logo=github&logoColor=black&color=grey)](lucasgls.github.io/Portifolio/)
 
 
 ## Contato📩
